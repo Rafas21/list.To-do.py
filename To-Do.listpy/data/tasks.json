@@ -1,7 +1,14 @@
 {
   "A fazer": [
-    "Dormir"
+    "Dormir",
+    "Acordar",
+    "Dançar"
   ],
-  "Fazendo": [],
-  "Feito": []
+  "Fazendo": [
+    "Comer"
+  ],
+  "Feito": [
+    "Correr",
+    "Pular"
+  ]
 }
